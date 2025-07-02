@@ -11,7 +11,6 @@ let leadingSecond = 0;
 let leadingMinute = 0;
 let leadingHour = 0;
 
-
 let timerInterval = null;
 let timerStatus = "stopped";
 
